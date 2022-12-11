@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+p{
+    color:darkred;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.AUT{
+    align-self:var(right)
+}

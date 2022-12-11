@@ -1,0 +1,21 @@
+.dll{
+    color:rgb(70, 21, 160);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+ text-align: center;
+ 
+}
+.AUT{
+    border-style:dashed;
+    border-color: darkblue;
+    border-width: 0px;
+    
+    
+}
+.HL1{
+    text-align: right;
+    size: 50px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
